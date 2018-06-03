@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Yi/Documents/GitHub/LCodeRepo/MaximumDepthofBinaryTree.cpp
+iostream
+-
+algorithm
+-
+string
+-
+sstream
+-
+queue
+-
+stdio.h
+-
+ctype.h
+-
+

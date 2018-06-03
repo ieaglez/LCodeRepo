@@ -1,0 +1,3 @@
+/Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles/LCodeRepo.dir
