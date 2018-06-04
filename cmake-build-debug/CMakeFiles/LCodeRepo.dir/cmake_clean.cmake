@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o"
+  "CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o"
   "LCodeRepo.pdb"
   "LCodeRepo"
 )
