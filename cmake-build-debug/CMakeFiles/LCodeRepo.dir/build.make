@@ -57,38 +57,38 @@ include CMakeFiles/LCodeRepo.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/LCodeRepo.dir/flags.make
 
-CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o: CMakeFiles/LCodeRepo.dir/flags.make
-CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o: ../MaximumDepthofBinaryTree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o -c /Users/Yi/Documents/GitHub/LCodeRepo/MaximumDepthofBinaryTree.cpp
+CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o: CMakeFiles/LCodeRepo.dir/flags.make
+CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o: ../SymmetricTestBinaryTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o -c /Users/Yi/Documents/GitHub/LCodeRepo/SymmetricTestBinaryTree.cpp
 
-CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Yi/Documents/GitHub/LCodeRepo/MaximumDepthofBinaryTree.cpp > CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.i
+CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Yi/Documents/GitHub/LCodeRepo/SymmetricTestBinaryTree.cpp > CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.i
 
-CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Yi/Documents/GitHub/LCodeRepo/MaximumDepthofBinaryTree.cpp -o CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.s
+CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Yi/Documents/GitHub/LCodeRepo/SymmetricTestBinaryTree.cpp -o CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.s
 
-CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o.requires:
+CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o.requires:
 
-.PHONY : CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o.requires
+.PHONY : CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o.requires
 
-CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o.provides: CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o.provides.build
-.PHONY : CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o.provides
+CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o.provides: CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o.provides.build
+.PHONY : CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o.provides
 
-CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o.provides.build: CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o
+CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o.provides.build: CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o
 
 
 # Object files for target LCodeRepo
 LCodeRepo_OBJECTS = \
-"CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o"
+"CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o"
 
 # External object files for target LCodeRepo
 LCodeRepo_EXTERNAL_OBJECTS =
 
-LCodeRepo: CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o
+LCodeRepo: CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o
 LCodeRepo: CMakeFiles/LCodeRepo.dir/build.make
 LCodeRepo: CMakeFiles/LCodeRepo.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LCodeRepo"
@@ -99,7 +99,7 @@ CMakeFiles/LCodeRepo.dir/build: LCodeRepo
 
 .PHONY : CMakeFiles/LCodeRepo.dir/build
 
-CMakeFiles/LCodeRepo.dir/requires: CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o.requires
+CMakeFiles/LCodeRepo.dir/requires: CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o.requires
 
 .PHONY : CMakeFiles/LCodeRepo.dir/requires
 

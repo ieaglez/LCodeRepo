@@ -123,32 +123,32 @@ LCodeRepo/fast:
 	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/build
 .PHONY : LCodeRepo/fast
 
-MaximumDepthofBinaryTree.o: MaximumDepthofBinaryTree.cpp.o
+SymmetricTestBinaryTree.o: SymmetricTestBinaryTree.cpp.o
 
-.PHONY : MaximumDepthofBinaryTree.o
+.PHONY : SymmetricTestBinaryTree.o
 
 # target to build an object file
-MaximumDepthofBinaryTree.cpp.o:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.o
-.PHONY : MaximumDepthofBinaryTree.cpp.o
+SymmetricTestBinaryTree.cpp.o:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o
+.PHONY : SymmetricTestBinaryTree.cpp.o
 
-MaximumDepthofBinaryTree.i: MaximumDepthofBinaryTree.cpp.i
+SymmetricTestBinaryTree.i: SymmetricTestBinaryTree.cpp.i
 
-.PHONY : MaximumDepthofBinaryTree.i
+.PHONY : SymmetricTestBinaryTree.i
 
 # target to preprocess a source file
-MaximumDepthofBinaryTree.cpp.i:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.i
-.PHONY : MaximumDepthofBinaryTree.cpp.i
+SymmetricTestBinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.i
+.PHONY : SymmetricTestBinaryTree.cpp.i
 
-MaximumDepthofBinaryTree.s: MaximumDepthofBinaryTree.cpp.s
+SymmetricTestBinaryTree.s: SymmetricTestBinaryTree.cpp.s
 
-.PHONY : MaximumDepthofBinaryTree.s
+.PHONY : SymmetricTestBinaryTree.s
 
 # target to generate assembly for a file
-MaximumDepthofBinaryTree.cpp.s:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/MaximumDepthofBinaryTree.cpp.s
-.PHONY : MaximumDepthofBinaryTree.cpp.s
+SymmetricTestBinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.s
+.PHONY : SymmetricTestBinaryTree.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LCodeRepo"
-	@echo "... MaximumDepthofBinaryTree.o"
-	@echo "... MaximumDepthofBinaryTree.i"
-	@echo "... MaximumDepthofBinaryTree.s"
+	@echo "... SymmetricTestBinaryTree.o"
+	@echo "... SymmetricTestBinaryTree.i"
+	@echo "... SymmetricTestBinaryTree.s"
 .PHONY : help
 
 
