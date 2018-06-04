@@ -123,32 +123,32 @@ LCodeRepo/fast:
 	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/build
 .PHONY : LCodeRepo/fast
 
-SymmetricTestBinaryTree.o: SymmetricTestBinaryTree.cpp.o
+ConstructBinaryTreefromInorderandPostorderTraversal.o: ConstructBinaryTreefromInorderandPostorderTraversal.cpp.o
 
-.PHONY : SymmetricTestBinaryTree.o
+.PHONY : ConstructBinaryTreefromInorderandPostorderTraversal.o
 
 # target to build an object file
-SymmetricTestBinaryTree.cpp.o:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o
-.PHONY : SymmetricTestBinaryTree.cpp.o
+ConstructBinaryTreefromInorderandPostorderTraversal.cpp.o:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromInorderandPostorderTraversal.cpp.o
+.PHONY : ConstructBinaryTreefromInorderandPostorderTraversal.cpp.o
 
-SymmetricTestBinaryTree.i: SymmetricTestBinaryTree.cpp.i
+ConstructBinaryTreefromInorderandPostorderTraversal.i: ConstructBinaryTreefromInorderandPostorderTraversal.cpp.i
 
-.PHONY : SymmetricTestBinaryTree.i
+.PHONY : ConstructBinaryTreefromInorderandPostorderTraversal.i
 
 # target to preprocess a source file
-SymmetricTestBinaryTree.cpp.i:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.i
-.PHONY : SymmetricTestBinaryTree.cpp.i
+ConstructBinaryTreefromInorderandPostorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromInorderandPostorderTraversal.cpp.i
+.PHONY : ConstructBinaryTreefromInorderandPostorderTraversal.cpp.i
 
-SymmetricTestBinaryTree.s: SymmetricTestBinaryTree.cpp.s
+ConstructBinaryTreefromInorderandPostorderTraversal.s: ConstructBinaryTreefromInorderandPostorderTraversal.cpp.s
 
-.PHONY : SymmetricTestBinaryTree.s
+.PHONY : ConstructBinaryTreefromInorderandPostorderTraversal.s
 
 # target to generate assembly for a file
-SymmetricTestBinaryTree.cpp.s:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.s
-.PHONY : SymmetricTestBinaryTree.cpp.s
+ConstructBinaryTreefromInorderandPostorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromInorderandPostorderTraversal.cpp.s
+.PHONY : ConstructBinaryTreefromInorderandPostorderTraversal.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LCodeRepo"
-	@echo "... SymmetricTestBinaryTree.o"
-	@echo "... SymmetricTestBinaryTree.i"
-	@echo "... SymmetricTestBinaryTree.s"
+	@echo "... ConstructBinaryTreefromInorderandPostorderTraversal.o"
+	@echo "... ConstructBinaryTreefromInorderandPostorderTraversal.i"
+	@echo "... ConstructBinaryTreefromInorderandPostorderTraversal.s"
 .PHONY : help
 
 

@@ -12,11 +12,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf9e6d36-3c71-4612-9d61-342b5b678fa2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/ConstructBinaryTreefromInorderandPostorderTraversal.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HasPathSum.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SymmetricTestBinaryTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SymmetricTestBinaryTree.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/LCodeRepo" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LCodeRepo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LCodeRepo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LCodeRepo.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,22 +43,46 @@
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SymmetricTestBinaryTree.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SymmetricTestBinaryTree.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SymmetricTestBinaryTree.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+            <state relative-caret-position="285">
+              <caret line="19" column="2" selection-start-line="3" selection-end-line="19" selection-end-column="2" />
               <folding>
                 <element signature="e#41#60#0" expanded="true" />
                 <element signature="e#495#659#0" />
                 <element signature="e#661#833#0" />
                 <element signature="e#835#1922#0" />
                 <element signature="e#1924#1996#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConstructBinaryTreefromInorderandPostorderTraversal.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ConstructBinaryTreefromInorderandPostorderTraversal.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+              <folding>
+                <element signature="e#41#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HasPathSum.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HasPathSum.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="883">
+              <caret line="66" column="46" lean-forward="true" selection-start-line="66" selection-start-column="46" selection-end-line="66" selection-end-column="46" />
+              <folding>
+                <element signature="e#42#61#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,8 +138,10 @@
       <list>
         <option value="$PROJECT_DIR$/MaximumDepthofBinaryTree.cpp" />
         <option value="$PROJECT_DIR$/SymmetricBinaryTree.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/SymmetricTestBinaryTree.cpp" />
+        <option value="$PROJECT_DIR$/HasPathSum.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/ConstructBinaryTreefromInorderandPostorderTraversal.cpp" />
       </list>
     </option>
   </component>
@@ -119,9 +155,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="592" />
-    <option name="y" value="127" />
-    <option name="width" value="1805" />
+    <option name="x" value="747" />
+    <option name="y" value="294" />
+    <option name="width" value="1298" />
     <option name="height" value="1025" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -163,7 +199,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Build All">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="[3,9,20,null,null,15,7]" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCodeRepo" TARGET_NAME="LCodeRepo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCodeRepo" RUN_TARGET_NAME="LCodeRepo" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCodeRepo" TARGET_NAME="LCodeRepo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCodeRepo" RUN_TARGET_NAME="LCodeRepo" />
     <configuration name="LCodeRepo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LCodeRepo" TARGET_NAME="LCodeRepo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LCodeRepo" RUN_TARGET_NAME="LCodeRepo" />
     <list>
       <item itemvalue="Application.Build All" />
@@ -182,24 +218,24 @@
       <updated>1528064012181</updated>
       <workItem from="1528064013997" duration="241000" />
       <workItem from="1528066464840" duration="857000" />
-      <workItem from="1528067518085" duration="6926000" />
+      <workItem from="1528067518085" duration="9673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8024000" />
+    <option name="totallyTimeSpent" value="10771000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="592" y="127" width="1805" height="1025" extended-state="0" />
+    <frame x="1177" y="209" width="1298" height="1025" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19390582" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2696456" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4770083" weight="0.31966352" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.47457626" weight="0.31966352" />
       <window_info anchor="bottom" id="CMake" order="7" sideWeight="0.49861497" weight="0.32912722" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5096953" side_tool="true" visible="true" weight="0.3280757" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51232666" side_tool="true" visible="true" weight="0.3280757" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4903047" visible="true" weight="0.3280757" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48767334" visible="true" weight="0.3280757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.499723" weight="0.32912722" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -311,23 +347,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SymmetricTestBinaryTree.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        <state relative-caret-position="285">
+          <caret line="19" column="2" selection-start-line="3" selection-end-line="19" selection-end-column="2" />
           <folding>
             <element signature="e#41#60#0" expanded="true" />
             <element signature="e#495#659#0" />
             <element signature="e#661#833#0" />
             <element signature="e#835#1922#0" />
             <element signature="e#1924#1996#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HasPathSum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="883">
+          <caret line="66" column="46" lean-forward="true" selection-start-line="66" selection-start-column="46" selection-end-line="66" selection-end-column="46" />
+          <folding>
+            <element signature="e#42#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConstructBinaryTreefromInorderandPostorderTraversal.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
           </folding>
         </state>
       </provider>
