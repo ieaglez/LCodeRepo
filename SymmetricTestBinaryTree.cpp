@@ -22,13 +22,31 @@ struct TreeNode {
 class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
-        if(!root) return false;
+        if(!root) return true;
 
-        vector<int> lmrResult = midOrderLeftTraversal(root);
-        vector<int> rmlResult = midOrderRightTraversal(root);
+        //vector<int> lmrResult = midOrderLeftTraversal(root);
+        //vector<int> rmlResult = midOrderRightTraversal(root);
 
-        bool issymmetric = !compareVec(lmrResult, rmlResult);
-        return issymmetric;
+        //bool issymmetric = !compareVec(lmrResult, rmlResult);
+        //return issymmetric;
+        return isRevertMapping(root->left, root->right);
+    }
+
+    bool isRevertMapping(TreeNode* left, TreeNode* right) {
+        // if both left and right are null, then return true;
+        if(!left&&!right) return true;
+
+        // if either left or right is null (but not both), then return false;
+        if(!(left&&right)) return false;
+
+        if(left->val == right->val) {
+            if(isRevertMapping(left->left, right->right)){
+                if(isRevertMapping(left->right, right->left)){
+                    return true;
+                }
+            }
+        }
+        return false;
     }
 
     vector<int> midOrderLeftTraversal(TreeNode* root){
@@ -72,6 +90,7 @@ public:
         auto leftIt = left.begin();
         auto rightIt = right.begin();
         auto diff = 0;
+
         while (leftIt != left.end() && rightIt != right.end()) {
             if (*leftIt != *rightIt) {
                 diff++;
