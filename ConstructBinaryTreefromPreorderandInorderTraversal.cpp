@@ -1,5 +1,5 @@
 //
-// Created by Yi Zhang on 6/3/18.
+// Created by Yi Zhang on 6/4/18.
 //
 
 #include <iostream>
@@ -21,22 +21,22 @@ struct TreeNode {
 
 class Solution {
 public:
-    TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
+    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         // start from the last item in postorder
         // then constructure left tree using the vector left to the last time in inorder
         // then constructure right tree using
         // TreeNode* root = new TreeNode(stoi(item));
 
-        if (inorder.size() == 0 || postorder.size()==0) return NULL;
+        if (inorder.size() == 0 || preorder.size()==0) return NULL;
 
-        int root_val = postorder.back();
+        int root_val = preorder.front();
         TreeNode* root = new TreeNode(root_val);
-        postorder.pop_back();
+        preorder.erase(preorder.begin());
 
         vector<int> lInorder;
         vector<int> rInorder;
-        vector<int> lPostOrder;
-        vector<int> rPostOrder;
+        vector<int> lPreOrder;
+        vector<int> rPreOrder;
 
         int temp_lrInorder = 0;
         for (vector<int>::iterator it1 = inorder.begin(); it1!= inorder.end(); ++it1){
@@ -46,26 +46,27 @@ public:
             else if (temp_lrInorder == 0) {
                 lInorder.push_back(*it1);
 
-                lPostOrder.push_back(postorder.front());
-                postorder.erase(postorder.begin());
+                lPreOrder.push_back(preorder.front());
+                preorder.erase(preorder.begin());
 
             } else
             {
                 rInorder.push_back(*it1);
 
-                rPostOrder.push_back(postorder.front());
-                postorder.erase(postorder.begin());
+                rPreOrder.push_back(preorder.front());
+                preorder.erase(preorder.begin());
 
             }
         }
 
         //build left tree
-        root->left = buildTree(lInorder, lPostOrder);
+        root->left = buildTree(lPreOrder, lInorder);
 
         //build right tree
-        root->right = buildTree(rInorder, rPostOrder);
+        root->right = buildTree(rPreOrder, rInorder);
 
         return root;
+
     }
 };
 
@@ -123,11 +124,11 @@ string treeNodeToString(TreeNode* root) {
 int main() {
     string line;
     while (getline(cin, line)) {
-        vector<int> inorder = stringToIntegerVector(line);
+        vector<int> preorder = stringToIntegerVector(line);
         getline(cin, line);
-        vector<int> postorder = stringToIntegerVector(line);
+        vector<int> inorder = stringToIntegerVector(line);
 
-        TreeNode* ret = Solution().buildTree(inorder, postorder);
+        TreeNode* ret = Solution().buildTree(preorder, inorder);
 
         string out = treeNodeToString(ret);
         cout << out << endl;

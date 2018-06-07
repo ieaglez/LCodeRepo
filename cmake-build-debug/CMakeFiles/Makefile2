@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug
 CMakeFiles/LCodeRepo.dir/all:
 	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/depend
 	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target LCodeRepo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target LCodeRepo"
 .PHONY : CMakeFiles/LCodeRepo.dir/all
 
 # Include target in all.
@@ -76,7 +76,7 @@ all: CMakeFiles/LCodeRepo.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LCodeRepo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/LCodeRepo.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/LCodeRepo.dir/rule

@@ -80,7 +80,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/Yi/Documents/GitHub/LCodeRepo/ConstructBinaryTreefromInorderandPostorderTraversal.cpp">
+		<Unit filename="/Users/Yi/Documents/GitHub/LCodeRepo/ConstructBinaryTreefromPreorderandInorderTraversal.cpp">
+			<Option target="LCodeRepo"/>
+		</Unit>
+		<Unit filename="/Users/Yi/Documents/GitHub/LCodeRepo/PopulatingNextRightPointersinEachNode.cpp">
 			<Option target="LCodeRepo"/>
 		</Unit>
 		<Unit filename="/Users/Yi/Documents/GitHub/LCodeRepo/CMakeLists.txt">

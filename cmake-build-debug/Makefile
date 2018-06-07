@@ -123,32 +123,59 @@ LCodeRepo/fast:
 	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/build
 .PHONY : LCodeRepo/fast
 
-ConstructBinaryTreefromInorderandPostorderTraversal.o: ConstructBinaryTreefromInorderandPostorderTraversal.cpp.o
+ConstructBinaryTreefromPreorderandInorderTraversal.o: ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o
 
-.PHONY : ConstructBinaryTreefromInorderandPostorderTraversal.o
+.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.o
 
 # target to build an object file
-ConstructBinaryTreefromInorderandPostorderTraversal.cpp.o:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromInorderandPostorderTraversal.cpp.o
-.PHONY : ConstructBinaryTreefromInorderandPostorderTraversal.cpp.o
+ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o
+.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o
 
-ConstructBinaryTreefromInorderandPostorderTraversal.i: ConstructBinaryTreefromInorderandPostorderTraversal.cpp.i
+ConstructBinaryTreefromPreorderandInorderTraversal.i: ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i
 
-.PHONY : ConstructBinaryTreefromInorderandPostorderTraversal.i
+.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.i
 
 # target to preprocess a source file
-ConstructBinaryTreefromInorderandPostorderTraversal.cpp.i:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromInorderandPostorderTraversal.cpp.i
-.PHONY : ConstructBinaryTreefromInorderandPostorderTraversal.cpp.i
+ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i
+.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i
 
-ConstructBinaryTreefromInorderandPostorderTraversal.s: ConstructBinaryTreefromInorderandPostorderTraversal.cpp.s
+ConstructBinaryTreefromPreorderandInorderTraversal.s: ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s
 
-.PHONY : ConstructBinaryTreefromInorderandPostorderTraversal.s
+.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.s
 
 # target to generate assembly for a file
-ConstructBinaryTreefromInorderandPostorderTraversal.cpp.s:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromInorderandPostorderTraversal.cpp.s
-.PHONY : ConstructBinaryTreefromInorderandPostorderTraversal.cpp.s
+ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s
+.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s
+
+PopulatingNextRightPointersinEachNode.o: PopulatingNextRightPointersinEachNode.cpp.o
+
+.PHONY : PopulatingNextRightPointersinEachNode.o
+
+# target to build an object file
+PopulatingNextRightPointersinEachNode.cpp.o:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/PopulatingNextRightPointersinEachNode.cpp.o
+.PHONY : PopulatingNextRightPointersinEachNode.cpp.o
+
+PopulatingNextRightPointersinEachNode.i: PopulatingNextRightPointersinEachNode.cpp.i
+
+.PHONY : PopulatingNextRightPointersinEachNode.i
+
+# target to preprocess a source file
+PopulatingNextRightPointersinEachNode.cpp.i:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/PopulatingNextRightPointersinEachNode.cpp.i
+.PHONY : PopulatingNextRightPointersinEachNode.cpp.i
+
+PopulatingNextRightPointersinEachNode.s: PopulatingNextRightPointersinEachNode.cpp.s
+
+.PHONY : PopulatingNextRightPointersinEachNode.s
+
+# target to generate assembly for a file
+PopulatingNextRightPointersinEachNode.cpp.s:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/PopulatingNextRightPointersinEachNode.cpp.s
+.PHONY : PopulatingNextRightPointersinEachNode.cpp.s
 
 # Help Target
 help:
@@ -159,9 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LCodeRepo"
-	@echo "... ConstructBinaryTreefromInorderandPostorderTraversal.o"
-	@echo "... ConstructBinaryTreefromInorderandPostorderTraversal.i"
-	@echo "... ConstructBinaryTreefromInorderandPostorderTraversal.s"
+	@echo "... ConstructBinaryTreefromPreorderandInorderTraversal.o"
+	@echo "... ConstructBinaryTreefromPreorderandInorderTraversal.i"
+	@echo "... ConstructBinaryTreefromPreorderandInorderTraversal.s"
+	@echo "... PopulatingNextRightPointersinEachNode.o"
+	@echo "... PopulatingNextRightPointersinEachNode.i"
+	@echo "... PopulatingNextRightPointersinEachNode.s"
 .PHONY : help
 
 

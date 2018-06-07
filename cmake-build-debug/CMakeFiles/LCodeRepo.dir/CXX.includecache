@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/Yi/Documents/GitHub/LCodeRepo/ConstructBinaryTreefromInorderandPostorderTraversal.cpp
+/Users/Yi/Documents/GitHub/LCodeRepo/ConstructBinaryTreefromPreorderandInorderTraversal.cpp
 iostream
 -
 algorithm
