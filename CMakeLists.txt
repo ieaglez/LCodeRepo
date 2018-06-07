@@ -3,4 +3,4 @@ project(LCodeRepo)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(LCodeRepo SymmetricTestBinaryTree.cpp)
+add_executable(LCodeRepo ConstructBinaryTreefromPreorderandInorderTraversal.cpp PopulatingNextRightPointersinEachNode.cpp)

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o"
+  "CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o"
+  "CMakeFiles/LCodeRepo.dir/PopulatingNextRightPointersinEachNode.cpp.o"
   "LCodeRepo.pdb"
   "LCodeRepo"
 )

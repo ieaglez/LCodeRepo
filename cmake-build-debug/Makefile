@@ -123,32 +123,59 @@ LCodeRepo/fast:
 	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/build
 .PHONY : LCodeRepo/fast
 
-SymmetricTestBinaryTree.o: SymmetricTestBinaryTree.cpp.o
+ConstructBinaryTreefromPreorderandInorderTraversal.o: ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o
 
-.PHONY : SymmetricTestBinaryTree.o
+.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.o
 
 # target to build an object file
-SymmetricTestBinaryTree.cpp.o:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o
-.PHONY : SymmetricTestBinaryTree.cpp.o
+ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o
+.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o
 
-SymmetricTestBinaryTree.i: SymmetricTestBinaryTree.cpp.i
+ConstructBinaryTreefromPreorderandInorderTraversal.i: ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i
 
-.PHONY : SymmetricTestBinaryTree.i
+.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.i
 
 # target to preprocess a source file
-SymmetricTestBinaryTree.cpp.i:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.i
-.PHONY : SymmetricTestBinaryTree.cpp.i
+ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i
+.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i
 
-SymmetricTestBinaryTree.s: SymmetricTestBinaryTree.cpp.s
+ConstructBinaryTreefromPreorderandInorderTraversal.s: ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s
 
-.PHONY : SymmetricTestBinaryTree.s
+.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.s
 
 # target to generate assembly for a file
-SymmetricTestBinaryTree.cpp.s:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.s
-.PHONY : SymmetricTestBinaryTree.cpp.s
+ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s
+.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s
+
+PopulatingNextRightPointersinEachNode.o: PopulatingNextRightPointersinEachNode.cpp.o
+
+.PHONY : PopulatingNextRightPointersinEachNode.o
+
+# target to build an object file
+PopulatingNextRightPointersinEachNode.cpp.o:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/PopulatingNextRightPointersinEachNode.cpp.o
+.PHONY : PopulatingNextRightPointersinEachNode.cpp.o
+
+PopulatingNextRightPointersinEachNode.i: PopulatingNextRightPointersinEachNode.cpp.i
+
+.PHONY : PopulatingNextRightPointersinEachNode.i
+
+# target to preprocess a source file
+PopulatingNextRightPointersinEachNode.cpp.i:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/PopulatingNextRightPointersinEachNode.cpp.i
+.PHONY : PopulatingNextRightPointersinEachNode.cpp.i
+
+PopulatingNextRightPointersinEachNode.s: PopulatingNextRightPointersinEachNode.cpp.s
+
+.PHONY : PopulatingNextRightPointersinEachNode.s
+
+# target to generate assembly for a file
+PopulatingNextRightPointersinEachNode.cpp.s:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/PopulatingNextRightPointersinEachNode.cpp.s
+.PHONY : PopulatingNextRightPointersinEachNode.cpp.s
 
 # Help Target
 help:
@@ -159,9 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LCodeRepo"
-	@echo "... SymmetricTestBinaryTree.o"
-	@echo "... SymmetricTestBinaryTree.i"
-	@echo "... SymmetricTestBinaryTree.s"
+	@echo "... ConstructBinaryTreefromPreorderandInorderTraversal.o"
+	@echo "... ConstructBinaryTreefromPreorderandInorderTraversal.i"
+	@echo "... ConstructBinaryTreefromPreorderandInorderTraversal.s"
+	@echo "... PopulatingNextRightPointersinEachNode.o"
+	@echo "... PopulatingNextRightPointersinEachNode.i"
+	@echo "... PopulatingNextRightPointersinEachNode.s"
 .PHONY : help
 
 

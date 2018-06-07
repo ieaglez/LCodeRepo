@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/Yi/Documents/GitHub/LCodeRepo/SymmetricTestBinaryTree.cpp" "/Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles/LCodeRepo.dir/SymmetricTestBinaryTree.cpp.o"
+  "/Users/Yi/Documents/GitHub/LCodeRepo/ConstructBinaryTreefromPreorderandInorderTraversal.cpp" "/Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o"
+  "/Users/Yi/Documents/GitHub/LCodeRepo/PopulatingNextRightPointersinEachNode.cpp" "/Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles/LCodeRepo.dir/PopulatingNextRightPointersinEachNode.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
