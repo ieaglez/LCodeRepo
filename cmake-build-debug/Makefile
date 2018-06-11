@@ -123,59 +123,32 @@ LCodeRepo/fast:
 	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/build
 .PHONY : LCodeRepo/fast
 
-ConstructBinaryTreefromPreorderandInorderTraversal.o: ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o
+arrayPariSum.o: arrayPariSum.cpp.o
 
-.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.o
-
-# target to build an object file
-ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o
-.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.cpp.o
-
-ConstructBinaryTreefromPreorderandInorderTraversal.i: ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i
-
-.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.i
-
-# target to preprocess a source file
-ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i
-.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.cpp.i
-
-ConstructBinaryTreefromPreorderandInorderTraversal.s: ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s
-
-.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.s
-
-# target to generate assembly for a file
-ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s
-.PHONY : ConstructBinaryTreefromPreorderandInorderTraversal.cpp.s
-
-PopulatingNextRightPointersinEachNode.o: PopulatingNextRightPointersinEachNode.cpp.o
-
-.PHONY : PopulatingNextRightPointersinEachNode.o
+.PHONY : arrayPariSum.o
 
 # target to build an object file
-PopulatingNextRightPointersinEachNode.cpp.o:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/PopulatingNextRightPointersinEachNode.cpp.o
-.PHONY : PopulatingNextRightPointersinEachNode.cpp.o
+arrayPariSum.cpp.o:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o
+.PHONY : arrayPariSum.cpp.o
 
-PopulatingNextRightPointersinEachNode.i: PopulatingNextRightPointersinEachNode.cpp.i
+arrayPariSum.i: arrayPariSum.cpp.i
 
-.PHONY : PopulatingNextRightPointersinEachNode.i
+.PHONY : arrayPariSum.i
 
 # target to preprocess a source file
-PopulatingNextRightPointersinEachNode.cpp.i:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/PopulatingNextRightPointersinEachNode.cpp.i
-.PHONY : PopulatingNextRightPointersinEachNode.cpp.i
+arrayPariSum.cpp.i:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.i
+.PHONY : arrayPariSum.cpp.i
 
-PopulatingNextRightPointersinEachNode.s: PopulatingNextRightPointersinEachNode.cpp.s
+arrayPariSum.s: arrayPariSum.cpp.s
 
-.PHONY : PopulatingNextRightPointersinEachNode.s
+.PHONY : arrayPariSum.s
 
 # target to generate assembly for a file
-PopulatingNextRightPointersinEachNode.cpp.s:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/PopulatingNextRightPointersinEachNode.cpp.s
-.PHONY : PopulatingNextRightPointersinEachNode.cpp.s
+arrayPariSum.cpp.s:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.s
+.PHONY : arrayPariSum.cpp.s
 
 # Help Target
 help:
@@ -186,12 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LCodeRepo"
-	@echo "... ConstructBinaryTreefromPreorderandInorderTraversal.o"
-	@echo "... ConstructBinaryTreefromPreorderandInorderTraversal.i"
-	@echo "... ConstructBinaryTreefromPreorderandInorderTraversal.s"
-	@echo "... PopulatingNextRightPointersinEachNode.o"
-	@echo "... PopulatingNextRightPointersinEachNode.i"
-	@echo "... PopulatingNextRightPointersinEachNode.s"
+	@echo "... arrayPariSum.o"
+	@echo "... arrayPariSum.i"
+	@echo "... arrayPariSum.s"
 .PHONY : help
 
 
