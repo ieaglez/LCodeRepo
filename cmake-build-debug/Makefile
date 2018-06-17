@@ -123,32 +123,32 @@ LCodeRepo/fast:
 	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/build
 .PHONY : LCodeRepo/fast
 
-arrayPariSum.o: arrayPariSum.cpp.o
+isPalindrome.o: isPalindrome.cpp.o
 
-.PHONY : arrayPariSum.o
+.PHONY : isPalindrome.o
 
 # target to build an object file
-arrayPariSum.cpp.o:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o
-.PHONY : arrayPariSum.cpp.o
+isPalindrome.cpp.o:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o
+.PHONY : isPalindrome.cpp.o
 
-arrayPariSum.i: arrayPariSum.cpp.i
+isPalindrome.i: isPalindrome.cpp.i
 
-.PHONY : arrayPariSum.i
+.PHONY : isPalindrome.i
 
 # target to preprocess a source file
-arrayPariSum.cpp.i:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.i
-.PHONY : arrayPariSum.cpp.i
+isPalindrome.cpp.i:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.i
+.PHONY : isPalindrome.cpp.i
 
-arrayPariSum.s: arrayPariSum.cpp.s
+isPalindrome.s: isPalindrome.cpp.s
 
-.PHONY : arrayPariSum.s
+.PHONY : isPalindrome.s
 
 # target to generate assembly for a file
-arrayPariSum.cpp.s:
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.s
-.PHONY : arrayPariSum.cpp.s
+isPalindrome.cpp.s:
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.s
+.PHONY : isPalindrome.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LCodeRepo"
-	@echo "... arrayPariSum.o"
-	@echo "... arrayPariSum.i"
-	@echo "... arrayPariSum.s"
+	@echo "... isPalindrome.o"
+	@echo "... isPalindrome.i"
+	@echo "... isPalindrome.s"
 .PHONY : help
 
 

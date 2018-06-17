@@ -12,28 +12,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf9e6d36-3c71-4612-9d61-342b5b678fa2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayPivotIndex.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addBinary.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayPariSum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dominantIndex.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plusOne.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverseString.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourSumCount.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isHappy.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isIsomorphic.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isPalindrome.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oddEvenList.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/removeDuplicates.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/removeElement.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/topKFrequent.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/LCodeRepo" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LCodeRepo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/LCodeRepo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LCodeRepo.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,58 +56,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConstructBinaryTreefromPreorderandInorderTraversal.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ConstructBinaryTreefromPreorderandInorderTraversal.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
-              <folding>
-                <element signature="e#41#60#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PopulatingNextRightPointersinEachNode.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PopulatingNextRightPointersinEachNode.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayPivotIndex.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArrayPivotIndex.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="12" selection-end-column="20" />
-              <folding>
-                <element signature="e#41#60#0" expanded="true" />
-                <element signature="e#117#281#0" />
-                <element signature="e#283#455#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="arrayPariSum.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/arrayPariSum.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="e#41#60#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConstructBinaryTreefromInorderandPostorderTraversal.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ConstructBinaryTreefromInorderandPostorderTraversal.cpp">
+      <file leaf-file-name="topKFrequent.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/topKFrequent.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="12" selection-end-column="20" />
+              <caret line="3" selection-start-line="3" selection-end-line="14" />
+              <folding>
+                <element signature="e#41#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="oddEvenList.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oddEvenList.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="988">
+              <caret line="73" column="18" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
+              <folding>
+                <element signature="e#41#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="isPalindrome.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/isPalindrome.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+              <folding>
+                <element signature="e#41#60#0" expanded="true" />
+                <element signature="e#293#401#1" />
+                <element signature="e#277#441#0" />
+                <element signature="e#443#615#0" />
+                <element signature="e#617#993#0" />
+                <element signature="e#995#1412#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="removeDuplicates.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/removeDuplicates.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="20" />
               <folding>
                 <element signature="e#41#60#0" expanded="true" />
               </folding>
@@ -139,8 +134,17 @@
         <option value="$PROJECT_DIR$/plusOne.cpp" />
         <option value="$PROJECT_DIR$/addBinary.cpp" />
         <option value="$PROJECT_DIR$/reverseString.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/arrayPariSum.cpp" />
+        <option value="$PROJECT_DIR$/removeElement.cpp" />
+        <option value="$PROJECT_DIR$/removeDuplicates.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/isHappy.cpp" />
+        <option value="$PROJECT_DIR$/isIsomorphic.cpp" />
+        <option value="$PROJECT_DIR$/fourSumCount.cpp" />
+        <option value="$PROJECT_DIR$/topKFrequent.cpp" />
+        <option value="$PROJECT_DIR$/oddEvenList.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/isPalindrome.cpp" />
       </list>
     </option>
   </component>
@@ -153,11 +157,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1154" />
-    <option name="y" value="52" />
-    <option name="width" value="1351" />
-    <option name="height" value="1297" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="812" />
+    <option name="y" value="72" />
+    <option name="width" value="1376" />
+    <option name="height" value="1276" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -217,28 +221,28 @@
       <updated>1528064012181</updated>
       <workItem from="1528064013997" duration="241000" />
       <workItem from="1528066464840" duration="857000" />
-      <workItem from="1528067518085" duration="25739000" />
+      <workItem from="1528067518085" duration="33230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26837000" />
+    <option name="totallyTimeSpent" value="34328000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1154" y="52" width="1351" height="1297" extended-state="1" />
+    <frame x="812" y="72" width="1376" height="1276" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21095484" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20712209" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.7816432" weight="0.31561732" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.75581396" weight="0.31530783" />
       <window_info anchor="bottom" id="CMake" order="7" sideWeight="0.49768874" weight="0.32912722" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.53367877" side_tool="true" visible="true" weight="0.2951758" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.3582849" side_tool="true" visible="true" weight="0.41930115" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.46632123" visible="true" weight="0.2951758" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.45930234" weight="0.30033278" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.499723" weight="0.32912722" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.51295334" weight="0.41946036" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6417151" visible="true" weight="0.41930115" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -277,8 +281,33 @@
           <line>18</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/isIsomorphic.cpp</url>
+          <line>22</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/isIsomorphic.cpp</url>
+          <line>33</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/topKFrequent.cpp</url>
+          <line>27</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/topKFrequent.cpp</url>
+          <line>20</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/isPalindrome.cpp</url>
+          <line>48</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="30" />
+      <option name="time" value="40" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -372,13 +401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MaximumDepthofBinaryTree.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -437,17 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/addBinary.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="e#41#60#0" expanded="true" />
-            <element signature="e#121#1024#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plusOne.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -484,6 +495,116 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/removeElement.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+          <folding>
+            <element signature="e#42#61#0" expanded="true" />
+            <element signature="e#130#294#0" />
+            <element signature="e#296#468#0" />
+            <element signature="e#470#846#0" />
+            <element signature="e#848#909#0" />
+            <element signature="e#911#1305#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrayPariSum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isHappy.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isIsomorphic.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+            <element signature="e#846#1749#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fourSumCount.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#42#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addBinary.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iterator">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="1539" selection-start-line="1539" selection-end-line="1539" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/removeDuplicates.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oddEvenList.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="73" column="18" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topKFrequent.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="14" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -491,12 +612,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arrayPariSum.cpp">
+    <entry file="file://$PROJECT_DIR$/isPalindrome.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="435">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
           <folding>
             <element signature="e#41#60#0" expanded="true" />
+            <element signature="e#293#401#1" />
+            <element signature="e#277#441#0" />
+            <element signature="e#443#615#0" />
+            <element signature="e#617#993#0" />
+            <element signature="e#995#1412#0" />
           </folding>
         </state>
       </provider>

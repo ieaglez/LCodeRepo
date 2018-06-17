@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o"
+  "CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o"
   "LCodeRepo.pdb"
   "LCodeRepo"
 )
