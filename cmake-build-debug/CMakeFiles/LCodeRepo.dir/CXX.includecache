@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/Yi/Documents/GitHub/LCodeRepo/arrayPariSum.cpp
+/Users/Yi/Documents/GitHub/LCodeRepo/isPalindrome.cpp
 iostream
 -
 algorithm
@@ -14,6 +14,10 @@ algorithm
 string
 -
 sstream
+-
+unordered_set
+-
+unordered_map
 -
 queue
 -

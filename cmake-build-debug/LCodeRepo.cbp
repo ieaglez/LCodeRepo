@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/Yi/Documents/GitHub/LCodeRepo/arrayPariSum.cpp">
+		<Unit filename="/Users/Yi/Documents/GitHub/LCodeRepo/isPalindrome.cpp">
 			<Option target="LCodeRepo"/>
 		</Unit>
 		<Unit filename="/Users/Yi/Documents/GitHub/LCodeRepo/CMakeLists.txt">

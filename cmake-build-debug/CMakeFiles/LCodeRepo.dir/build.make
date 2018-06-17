@@ -57,38 +57,38 @@ include CMakeFiles/LCodeRepo.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/LCodeRepo.dir/flags.make
 
-CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o: CMakeFiles/LCodeRepo.dir/flags.make
-CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o: ../arrayPariSum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o -c /Users/Yi/Documents/GitHub/LCodeRepo/arrayPariSum.cpp
+CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o: CMakeFiles/LCodeRepo.dir/flags.make
+CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o: ../isPalindrome.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o -c /Users/Yi/Documents/GitHub/LCodeRepo/isPalindrome.cpp
 
-CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Yi/Documents/GitHub/LCodeRepo/arrayPariSum.cpp > CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.i
+CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Yi/Documents/GitHub/LCodeRepo/isPalindrome.cpp > CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.i
 
-CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Yi/Documents/GitHub/LCodeRepo/arrayPariSum.cpp -o CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.s
+CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Yi/Documents/GitHub/LCodeRepo/isPalindrome.cpp -o CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.s
 
-CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o.requires:
+CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o.requires:
 
-.PHONY : CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o.requires
+.PHONY : CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o.requires
 
-CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o.provides: CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o.requires
-	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o.provides.build
-.PHONY : CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o.provides
+CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o.provides: CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LCodeRepo.dir/build.make CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o.provides.build
+.PHONY : CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o.provides
 
-CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o.provides.build: CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o
+CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o.provides.build: CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o
 
 
 # Object files for target LCodeRepo
 LCodeRepo_OBJECTS = \
-"CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o"
+"CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o"
 
 # External object files for target LCodeRepo
 LCodeRepo_EXTERNAL_OBJECTS =
 
-LCodeRepo: CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o
+LCodeRepo: CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o
 LCodeRepo: CMakeFiles/LCodeRepo.dir/build.make
 LCodeRepo: CMakeFiles/LCodeRepo.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Yi/Documents/GitHub/LCodeRepo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LCodeRepo"
@@ -99,7 +99,7 @@ CMakeFiles/LCodeRepo.dir/build: LCodeRepo
 
 .PHONY : CMakeFiles/LCodeRepo.dir/build
 
-CMakeFiles/LCodeRepo.dir/requires: CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o.requires
+CMakeFiles/LCodeRepo.dir/requires: CMakeFiles/LCodeRepo.dir/isPalindrome.cpp.o.requires
 
 .PHONY : CMakeFiles/LCodeRepo.dir/requires
 
