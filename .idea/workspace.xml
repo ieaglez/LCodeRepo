@@ -12,29 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf9e6d36-3c71-4612-9d61-342b5b678fa2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/fourSumCount.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isHappy.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isIsomorphic.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isPalindrome.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oddEvenList.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/removeDuplicates.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/removeElement.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/topKFrequent.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/arrayPariSum.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LCodeRepo.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LCodeRepo" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LCodeRepo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LCodeRepo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LCodeRepo.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,10 +61,9 @@
       <file leaf-file-name="isPalindrome.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/isPalindrome.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            <state relative-caret-position="150">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding>
-                <element signature="e#41#60#0" expanded="true" />
                 <element signature="e#293#401#1" />
                 <element signature="e#277#441#0" />
                 <element signature="e#443#615#0" />
@@ -187,6 +164,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -221,12 +199,12 @@
       <updated>1528064012181</updated>
       <workItem from="1528064013997" duration="241000" />
       <workItem from="1528066464840" duration="857000" />
-      <workItem from="1528067518085" duration="33230000" />
+      <workItem from="1528067518085" duration="33524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34328000" />
+    <option name="totallyTimeSpent" value="34622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="812" y="72" width="1376" height="1276" extended-state="0" />
@@ -242,7 +220,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.499723" weight="0.32912722" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6417151" visible="true" weight="0.41930115" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6417151" weight="0.41930115" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -262,47 +240,47 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/ArrayPivotIndex.cpp</url>
+          <url />
           <line>23</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/addBinary.cpp</url>
+          <url />
           <line>55</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/arrayPariSum.cpp</url>
+          <url />
           <line>37</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/arrayPariSum.cpp</url>
+          <url />
           <line>18</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/isIsomorphic.cpp</url>
+          <url />
           <line>22</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/isIsomorphic.cpp</url>
+          <url />
           <line>33</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/topKFrequent.cpp</url>
+          <url />
           <line>27</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/topKFrequent.cpp</url>
+          <url />
           <line>20</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/isPalindrome.cpp</url>
+          <url />
           <line>48</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
@@ -614,10 +592,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/isPalindrome.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="150">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding>
-            <element signature="e#41#60#0" expanded="true" />
             <element signature="e#293#401#1" />
             <element signature="e#277#441#0" />
             <element signature="e#443#615#0" />
